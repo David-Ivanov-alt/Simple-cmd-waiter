@@ -1,5 +1,4 @@
 # Simple cmd waiter
-# Простой таймер cmd
 
 To start, enter: "wait.exe time in seconds". Example: "wait.exe 5"                                   
 Для запуска введите: "wait.exe время в секундах". Пример: "wait.exe 5"
